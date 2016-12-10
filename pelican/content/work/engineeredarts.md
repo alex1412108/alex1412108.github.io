@@ -1,6 +1,7 @@
-Title: Contact
-Tags: contact
-Slug: contact
-Summary: Contact information for Alex Thompson
+Title: Engineered Arts Ltd
+Date: 2016-12-10 14:00
+Tags: work
+Slug: engineered-arts-ltc
+Summary: Work experience at Engineered Arts Ltd
 
-Contact information for Alex Thompson
+Engineered Arts Ltd
