@@ -3,10 +3,12 @@
 from __future__ import unicode_literals
 
 AUTHOR = 'alex thompson'
-SITENAME = 'alex1412108.github.io'
+SITENAME = 'Resume of Alex Thompson'
 SITEURL = ''
 
 PATH = 'content'
+
+OUTPUT_PATH = '../'
 
 TIMEZONE = 'UTC'
 

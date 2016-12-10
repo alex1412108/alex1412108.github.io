@@ -1,0 +1,1 @@
+the output was moved to the root folder as this is where github pages grabs html from. This was set in pelicanconf.py using the variable OUTPUT_PATH = '../'
