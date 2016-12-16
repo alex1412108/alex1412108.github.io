@@ -14,6 +14,8 @@ TIMEZONE = 'UTC'
 
 DEFAULT_LANG = 'en'
 
+THEME = 'simple'
+
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
@@ -35,7 +37,14 @@ DEFAULT_PAGINATION = False
 
 TYPOGRIFY = True
 SLUGIFY_SOURCE = 'basename'
+NEWEST_FIRST_ARCHIVES = True
+ARTICLE_ORDER_BY = 'reversed-date'
+GITHUB_URL = 'https://github.com/alex1412108'
+GOOGLE_ANALYTICS = 'UA-89119637-1'
 
+
+#uncomment the following line if you want to adjust the social widget name
+#SOCIAL_WIDGET_NAME = ''
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
