@@ -1,7 +1,6 @@
 Title: Bermuda Tech Week Most Inovative Youth Project
 Date: 2016-12-10 14:00
 Tags: awards
-Slug: bermuda-tech-week-most-inovative-youth-project
 Summary:  Designing a website for Bermuda’s local gaming community.
 
 Bermuda Tech Week Most Inovative Youth Project

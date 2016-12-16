@@ -1,7 +1,6 @@
 Title: Anti-Cyber Bullying Video Competition
 Date: 2016-12-10 14:00
 Tags: awards
-Slug: anti-cyber-bullying-video-competition
 Summary: Produced an anti cyber-bullying video for bermuda.
 
 

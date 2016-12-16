@@ -33,5 +33,9 @@ SOCIAL = (('linkedin', 'https://www.linkedin.com/in/alex-thompson-47a9aa48/'),
 
 DEFAULT_PAGINATION = False
 
+TYPOGRIFY = True
+SLUGIFY_SOURCE = 'basename'
+
+
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
